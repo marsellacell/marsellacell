@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Sella 🌷
+### Hey there! 👋 I'm marsell 🌷
 
 💻 On my journey to becoming a **Front-End Developer**  
 ✨ I love turning ideas into interactive, aesthetic, and user-friendly websites.  
