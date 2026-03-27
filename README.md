@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🌱 About Me<br>💻 software Engineering student with a passion for web development  <br>🌐 enjoy building simple, clean, and user-friendly web applications  <br>📚 currently improving my frontend skills and coding practices  <br>☕ powered by coffee and late-night coding sessions
+<br>💻 software Engineering student with a passion for web development  <br>🌐 enjoy building simple, clean, and user-friendly web applications  <br>📚 currently improving my frontend skills and coding practices  <br>☕ powered by coffee and late-night coding sessions
 
 
 ## 🌐 Socials:
